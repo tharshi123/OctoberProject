@@ -21,13 +21,13 @@ public class students {
 			System.out.println(studentsinOrder[i]);
 		}
 		
-		
+	
 
 	}
 
 	private String[]  studentsNamesInAlphabetOrder() {
 		
-		//String studentsNameNotInOrder[] = new String[7];
+		//deleetd a line in 30
 		String studentsNameInOrder[] = new String[7];
 		
 		String fileName = "C:\\Users\\jeyth\\javaProjects\\Sample\\studentsName";
