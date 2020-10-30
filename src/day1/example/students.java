@@ -27,7 +27,7 @@ public class students {
 
 	private String[]  studentsNamesInAlphabetOrder() {
 		
-		//deleetd a line in 30
+		//declaring a String array 
 		String studentsNameInOrder[] = new String[7];
 		
 		String fileName = "C:\\Users\\jeyth\\javaProjects\\Sample\\studentsName";
