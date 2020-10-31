@@ -20,7 +20,7 @@ public class Calculator {
 		
 	}
 	
-	private double interestCalculator(int amount,  int interestPercentage  ) {
+	public double interestCalculator(int amount,  int interestPercentage  ) {
 		  
 		double monInterest = (amount/100)*interestPercentage/12;
 		System.out.println(" Monthly Interest is =  "+ monInterest);

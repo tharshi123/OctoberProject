@@ -21,7 +21,10 @@ public class students {
 			System.out.println(studentsinOrder[i]);
 		}
 		
-	
+	double loanInterest ;
+	Calculator c1= new Calculator();
+	loanInterest = c1.interestCalculator(2000, 15);
+	System.out.println(" Interest calculator function being  called : " + loanInterest);
 
 	}
 
